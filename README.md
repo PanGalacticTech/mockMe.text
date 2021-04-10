@@ -8,7 +8,7 @@
  Either run mocking_script.py in python or double click mockMe.text.exe, and enter the text you wish to mock into the terminal. 
  
  It will return a mostly alternating string of upper and lower case characters, all words start lowercase and there is a 0.15 chance
- that it will reapeat lower or upper case characters for a more random effect.
+ that it will repeat lower or upper case characters for a more random effect.
  
  If you are not happy with the way this randomisation works, try changing the variable in line:
  
